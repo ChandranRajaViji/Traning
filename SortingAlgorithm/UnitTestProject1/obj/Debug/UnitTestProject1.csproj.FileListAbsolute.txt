@@ -1,0 +1,17 @@
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\bin\Debug\SortingAlgorithm.exe
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\bin\Debug\SortingAlgorithm.pdb
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\bin\Debug\SortingAlgorithm.exe.config
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\chand\source\repos\SortingAlgorithm\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
